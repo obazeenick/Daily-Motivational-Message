@@ -1,4 +1,4 @@
-import express from 'express'; // local express application
+import express from 'express'; // local express app
 import daily from './collector/mSg.js'; // custom app
 
 const server = express(); // express initiation 
