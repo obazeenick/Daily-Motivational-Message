@@ -7,10 +7,10 @@
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["daily", "message"],
+  "author": "Nicholas Izekor",
   "license": "ISC",
-  "description": "",
+  "description": "daily motivational message that light up your day",
   "dependencies": {
     "express": "^4.21.1"
   }
